@@ -1,2 +1,1 @@
-hoge
-otani
+練習用
